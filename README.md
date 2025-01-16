@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="(https://lokerbumn.com/wp-content/uploads/2021/07/Asian-agri-696x392.jpg)" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="(https://github.com/R3tarb0y/Drone-Operation/blob/main/public/admin_assets/img/cropped-asianagri_logo-2.png?raw=true)" width="400" alt="Laravel Logo"></a></p>
 
 
 ## About Drone Operation
